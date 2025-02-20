@@ -6,3 +6,5 @@ pip install pygame
 ```
 python main.py
 ```
+ps.........
+Click the window to place more balls
